@@ -1,0 +1,3 @@
+﻿  RandomNumbersBetweenRange.cpp
+D:\Users\270029667\OneDrive - UP Education\Desktop\CPP\0Homework\Lab3\RandomNumbersBetweenRange\RandomNumbersBetweenRange.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomNumbersBetweenRange.vcxproj -> D:\Users\270029667\OneDrive - UP Education\Desktop\CPP\0Homework\Lab3\RandomNumbersBetweenRange\Debug\RandomNumbersBetweenRange.exe
