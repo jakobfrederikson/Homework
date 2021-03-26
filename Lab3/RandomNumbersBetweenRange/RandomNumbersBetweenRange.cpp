@@ -25,7 +25,7 @@ int main()
             else {
                 odd++;
             }
-            i++;
+            i++; // putting i++ in the ranNum check so that the loop will only carry on once it gets a number over 10
 
         }
     }
